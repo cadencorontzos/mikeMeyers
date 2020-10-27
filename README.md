@@ -1,7 +1,7 @@
 # mikeMeyers
 A custom Roblox World
 
-Here is the link to the actual game.
+Here is the link to the game on ROBLOX. This game was created using Roblox Studio.
 
 https://www.roblox.com/games/5882636229/M1keM3y3rs
 
